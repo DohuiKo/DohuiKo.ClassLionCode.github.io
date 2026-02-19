@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git commit:*)",
+      "Bash(git add:*)",
+      "Bash(start \"c:\\\\Users\\\\Dori\\\\Documents\\\\dev\\\\pilot\\\\we-meet-talk\\\\index.html\")",
+      "Bash(git push:*)",
+      "Bash(gh pr create:*)"
+    ]
+  }
+}
